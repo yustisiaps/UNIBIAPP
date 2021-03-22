@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Biodata Mahasiswa </string>
+    <string name="nama_mahasiswa">Nama Mahasiswa</string>
+    <string name="detail_mahasiswa">Detail Mahasiswa</string>
+    <string name="myname">Yustisia Pratiwi Suhastri</string>
+    <string name="email">yustisia.it2@gmail.com</string>
+    <string name="universitas">UNIBI</string>
+    <string name="prodi">Informatika</string>
+</resources>
